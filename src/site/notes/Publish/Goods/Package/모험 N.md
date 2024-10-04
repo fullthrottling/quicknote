@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"패키지명":"모험 N","가격":88000,"합계":0,"가성비":0,"permalink":"/Publish/Goods/Package/모험 N/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Publish/Goods/Package/모험 N/"}
 ---
 
 

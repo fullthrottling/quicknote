@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Publish/Tip/PlayPass/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Publish/Tip/PlayPass/"}
 ---
 
 
