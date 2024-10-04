@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tog/server/jest/overview/"}
+{"dg-publish":true,"permalink":"/Tog/Server/Jest/Overview/"}
 ---
 
 
