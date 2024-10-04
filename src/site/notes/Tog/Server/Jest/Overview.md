@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Tog/Server/Jest/Overview/"}
+{"share_link":"https://share.note.sx/ak4oc6fq#quKKIyerPqBDb336E35+6sQ1u31KLIOxEBJwi0Wyp4w","share_updated":"2024-09-27T20:08:48+09:00","dg-publish":true,"permalink":"/Tog/Server/Jest/Overview/","dgPassFrontmatter":true}
 ---
 
 
