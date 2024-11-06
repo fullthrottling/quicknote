@@ -7,14 +7,14 @@
 
 
 ## 가챠 랜덤 구성물
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>재화명</span><span class="dataview small-text">10</span></th><th class="table-view-th"><span>갯수</span></th><th class="table-view-th"><span>확률</span></th><th class="table-view-th"><span>부유석 환산</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>가챠스택</span></td><td>1</td><td><span>0.00%</span></td><td>66</td></tr><tr><td><span>SSR PLUS 선택 상자</span></td><td><span>1</span></td><td><span>1.00%</span></td><td><span>200.000</span></td></tr><tr><td><span>SSR영혼석60개</span></td><td><span>0.083</span></td><td><span>2.00%</span></td><td><span>3.320</span></td></tr><tr><td><span>고급 신해의 숫돌</span></td><td><span>0.5</span></td><td><span>5.00%</span></td><td><span>15.000</span></td></tr><tr><td><span>고급 신해의 숫돌</span></td><td><span>1</span></td><td><span>2.00%</span></td><td><span>12.000</span></td></tr><tr><td><span>선물 상자</span></td><td><span>2</span></td><td><span>15.00%</span></td><td><span>0.300</span></td></tr><tr><td><span>24시간골드</span></td><td><span>1</span></td><td><span>9.00%</span></td><td><span>9.000</span></td></tr><tr><td><span>24시간신수</span></td><td><span>0.5</span></td><td><span>9.00%</span></td><td><span>22.500</span></td></tr><tr><td><span>꽝</span></td><td><span>0</span></td><td><span>57.00%</span></td><td><span>0.000</span></td></tr><tr><td><span><strong>합계</strong></span></td><td>0</td><td><span>100.00%</span></td><td>327</td></tr></tbody></table></div>
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>재화명</span><span class="dataview small-text">10</span></th><th class="table-view-th"><span>갯수</span></th><th class="table-view-th"><span>확률</span></th><th class="table-view-th"><span>부유석 환산</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>가챠스택</span></td><td>1</td><td><span>0.00%</span></td><td>66</td></tr><tr><td><span>SSR PLUS 선택 상자</span></td><td><span>1</span></td><td><span>2.00%</span></td><td><span>400.000</span></td></tr><tr><td><span>SSR영혼석60개</span></td><td><span>0.083</span></td><td><span>2.00%</span></td><td><span>3.320</span></td></tr><tr><td><span>고급 신해의 숫돌</span></td><td><span>0.5</span></td><td><span>5.00%</span></td><td><span>15.000</span></td></tr><tr><td><span>고급 신해의 숫돌</span></td><td><span>1</span></td><td><span>2.00%</span></td><td><span>12.000</span></td></tr><tr><td><span>선물 상자</span></td><td><span>2</span></td><td><span>15.00%</span></td><td><span>0.300</span></td></tr><tr><td><span>24시간골드</span></td><td><span>0.5</span></td><td><span>9.00%</span></td><td><span>4.500</span></td></tr><tr><td><span>24시간신수</span></td><td><span>0.25</span></td><td><span>9.00%</span></td><td><span>11.250</span></td></tr><tr><td><span>꽝</span></td><td><span>0</span></td><td><span>57.00%</span></td><td><span>0.000</span></td></tr><tr><td><span><strong>합계</strong></span></td><td>0</td><td><span>101.00%</span></td><td>511</td></tr></tbody></table></div>
 
-- SSR PLUS 선택 상자/1/0.01
+- SSR PLUS 선택 상자/1/0.02
 - SSR영혼석60개/0.083/0.02
 - 고급 신해의 숫돌/0.5/0.05
 - 고급 신해의 숫돌/1/0.02
 - 선물 상자/2/0.15
-- 24시간골드/1/0.09
-- 24시간신수/0.5/0.09
+- 24시간골드/0.5/0.09
+- 24시간신수/0.25/0.09
 - 꽝/0/0.57
 
